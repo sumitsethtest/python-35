@@ -1,0 +1,195 @@
+Ahrbrück    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Altenahr    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Antweiler    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Aremberg    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Bad Breisig    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Bad Neuenahr-Ahrweiler    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Barweiler    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Bauler    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Dankerath    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Dedenbach    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Dernau    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Dorsel    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Eichenbach    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Fuchshofen    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Gönnersdorf    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Harscheid    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Heckenbach    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Hönningen    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Hoffeld    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Honerath    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Hümmel    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Insul    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Kalenborn    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Kaltenborn    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Kesseling    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Kirchsahr    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Königsfeld    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Kottenborn    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Leimbach    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Lind    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Mayschoß    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Meuspath    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Müllenbach    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Müsch    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Niederdürenbach    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Niederzissen    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Oberdürenbach    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Oberzissen    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Ohlenhard    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Pomster    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Rech    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Reifferscheid    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Rodder    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Schalkenbach    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Schuld    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Senscheid    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Sierscheid    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Sinzig    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Trierscheid    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Waldorf    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Wershofen    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Wiesemscheid    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Wimbach    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Winnerath    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Wirft    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Grafschaft    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Brenk    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Glees    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Hohenleimbach    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Wehr    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Weibern    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Dümpelfeld    Ahrweiler    Koblenz    Rheinland-Pfalz    Germany
+Almersbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Alsdorf    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Bachenberg    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Berzhausen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Birkenbeul    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Birken-Honigsessen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Birnbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Bitzen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Brachbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Breitscheidt    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Bruchertseifen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Bürdenbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Burglahr    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Busenhausen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Daaden    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Derschen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Dickendorf    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Eichelhardt    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Eichen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Elben    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Elkenroth    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Emmerzhausen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Ersfeld    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Etzbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Eulenberg    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Fensdorf    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Fiersbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Flammersfeld    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Fluterschen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Forst    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Forstmehren    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Friedewald    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Friesenhagen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Fürthen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Gebhardshain    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Gieleroth    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Giershausen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Grünebach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Güllesheim    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Hamm (Sieg)    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Harbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Hasselbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Helmenzen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Helmeroth    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Hemmelzen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Herdorf    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Heupelzen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Hilgenroth    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Hirz-Maulsbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Horhausen (Westerwald)    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Idelberg    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Ingelbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Isert    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Kausen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Kescheid    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Kettenhausen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Kircheib    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Kraam    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Krunkel    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Malberg    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Mammelzen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Mauden    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Mehren    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Michelbach (Westerwald)    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Molzhain    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Mudersbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Nauroth    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Neitersen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Niederdreisbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Niederirsen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Niedersteinebach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Nisterberg    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Obererbach (Westerwald)    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Oberirsen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Oberlahr    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Obernau    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Obersteinebach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Oberwambach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Ölsen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Orfgen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Peterslahr    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Pleckhausen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Pracht    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Racksen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Reiferscheid    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Rettersen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Rosenheim (Landkreis Altenkirchen)    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Roth    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Rott    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Schöneberg    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Schürdt    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Schutzbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Seelbach Bei Hamm (Sieg)    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Seelbach (Westerwald)    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Seifen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Selbach (Sieg)    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Sörth    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Steinebach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Steineroth    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Stürzelbach    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Volkerzen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Walterschen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Weitefeld    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Werkhausen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Weyerbusch    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Willroth    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Wissen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Wölmersen    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Ziegenhain    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Berod Bei Hachenburg    Altenkirchen (Westerwald)    Koblenz    Rheinland-Pfalz    Germany
+Abtweiler    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Allenfeld    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Altenbamberg    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Argenschwang    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Bad Münster Am Stein-Ebernburg    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Bärenbach    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Bärweiler    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Becherbach Bei Kirn    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Becherbach    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Biebelsheim    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Bockenau    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Boos    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Braunweiler    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Brauweiler    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Breitenheim    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Bretzenheim    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Burgsponheim    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Callbach    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Dalberg    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Daubach    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Daxweiler    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Desloch    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
+Dörrebach    Bad Kreuznach    Koblenz    Rheinland-Pfalz    Germany
